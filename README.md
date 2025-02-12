@@ -1,5 +1,7 @@
 MoneyMaze - Money Management Web App
+
 🚀 About the Project
+
 MoneyMaze is a web application designed to help users manage their finances effectively. It offers features for budgeting, expense tracking, financial goal setting, and forecasting, along with integration for financial reports.
 
 This project is built collaboratively by a team of developers, including Prince Kumar and friends.
