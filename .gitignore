@@ -1,0 +1,6 @@
+
+*.pyc
+web/package-lock.json
+web/package.json
+web/package.json
+
